@@ -1,0 +1,13 @@
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\bin\Release\HelloWPFApplication.exe.config
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\bin\Release\HelloWPFApplication.exe
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\bin\Release\HelloWPFApplication.pdb
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\obj\Release\Greetings.g.cs
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\obj\Release\App.g.cs
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\obj\Release\HelloWPFApplication_MarkupCompile.cache
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\obj\Release\HelloWPFApplication_MarkupCompile.lref
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\obj\Release\Greetings.baml
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\obj\Release\HelloWPFApplication.g.resources
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\obj\Release\HelloWPFApplication.Properties.Resources.resources
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\obj\Release\HelloWPFApplication.csproj.GenerateResource.Cache
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\obj\Release\HelloWPFApplication.exe
+c:\users\kelley\documents\visual studio 2015\Projects\HelloWPFApplication\HelloWPFApplication\obj\Release\HelloWPFApplication.pdb
